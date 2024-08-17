@@ -1,0 +1,2921 @@
+<msg time='2022-05-24T22:14:15.921+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-FKOGIVT' host_addr='fe80::3c20:633a:d0a6:8e66%8'
+ version='1'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2022-05-24T22:14:16.063+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-FKOGIVT' host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Create Relation ADR_INVALIDATION
+ </txt>
+</msg>
+<msg time='2022-05-24T22:14:16.175+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-FKOGIVT' host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2022-05-24T22:14:16.356+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-FKOGIVT' host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2022-05-24T22:14:16.446+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag]
+ </txt>
+</msg>
+<msg time='2022-05-24T22:50:14.045+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-05-30T17:11:48.938+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-05-30T18:09:14.422+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-07-26T13:48:04.964+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-01T19:53:14.945+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.098+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.098+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.098+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.106+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:06:13
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.108+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.108+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.108+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.108+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.143+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.160+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.160+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.160+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.160+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.160+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:13.160+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:06:42
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.417+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.417+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.417+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.417+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.420+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:06:42.420+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:08:16
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:16.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:08:48.242+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:11:32
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:32.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.245+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.245+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.245+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.245+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:11:40
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.245+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:11:40.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:12:33
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:33.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:12:42.942+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.064+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.064+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.064+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:13:03
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:03.080+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:13:15
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:15.395+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:13:24
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:24.218+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:13:29.697+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:14:10
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.563+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.579+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.579+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.579+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:10.579+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.306+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:14:33
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:14:33.321+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:19:29.498+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:23:17
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.880+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.896+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.896+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:17.896+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.165+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.165+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.165+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.165+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:23:32
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.165+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.165+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.165+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.165+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.180+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.180+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.180+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.180+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.180+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.180+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:32.180+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:23:52.234+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:24:15
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.366+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.382+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:24:15.383+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:26:13
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:13.350+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:40.014+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.528+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.528+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 01-AUG-2022 20:26:58
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-01T20:26:58.544+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:23.818+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.482+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.482+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.482+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.482+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 08-AUG-2022 17:22:44
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.482+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.482+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.482+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.482+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.513+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.529+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.529+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.529+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.529+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.529+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-08T17:22:44.529+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-08T17:30:12.863+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-08T17:33:20.930+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-08T17:43:32.673+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-08T17:48:33.884+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-08T17:54:52.361+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-08T17:58:30.460+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-08T18:07:20.730+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-08T18:14:55.295+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-08T18:22:46.698+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-14T08:35:47.045+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.480+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.480+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.480+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.480+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 08:36:00
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.480+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.480+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.480+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.480+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.543+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.543+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.543+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.543+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.543+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.559+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:00.559+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.651+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.651+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.651+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.651+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 08:36:12
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.651+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.660+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.661+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.661+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.661+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.661+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.661+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.661+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.661+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.661+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:12.661+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 08:36:29
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:29.656+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:36:53.597+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 08:37:08
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.662+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.662+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:08.662+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.128+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.128+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.128+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.128+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 08:37:24
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.128+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T08:37:24.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.618+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.618+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 08:40:36
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.627+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.627+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.627+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:36.627+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:44.006+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 08:40:54
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T08:40:54.626+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 08:41:05
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T08:41:05.134+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T08:43:05.183+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-14T09:19:42.364+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:19.271+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 17:37:31
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.621+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.683+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.683+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.683+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.683+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.683+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.683+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:31.683+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Time: 14-AUG-2022 17:37:42
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-08-14T17:37:42.850+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2022-08-14T17:53:47.760+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='fe80::3c20:633a:d0a6:8e66%8'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:39.132+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>Directory does not exist for read/write [D:\app\MohanGowda\product\11.2.0\dbhome_1\log] [D:\app\MohanGowda\product\11.2.0\dbhome_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.323+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.323+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleOracle)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=Oracle)(CID=(PROGRAM=D:\app\MohanGowda\product\11.2.0\dbhome_1\BIN\sqlplus.exe)(HOST=DESKTOP-FKOGIVT)(USER=Mohan?Gowda))))
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.338+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.1.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.338+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>  Time: 24-DEC-2022 12:35:48
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.338+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.354+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.354+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.354+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.417+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.417+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.432+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.432+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.432+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.448+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2022-12-24T12:35:48.448+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-FKOGIVT'
+ host_addr='::1'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
